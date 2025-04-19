@@ -9,8 +9,7 @@ from streamlit_autorefresh import st_autorefresh
 st.set_page_config(page_title="🕋 Hajj Tweet Monitor", layout="wide")
 st.title("🕌 Hajj & Haramain Tweet Sentiment Dashboard")
 
-# 🔁 Auto-refresh every 30 seconds
-st_autorefresh(interval=30000, key="auto_refresh")
+
 
 # ✅ Manual refresh button
 if st.button("🔁 Refresh Now"):
