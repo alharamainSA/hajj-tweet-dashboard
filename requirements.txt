@@ -1,8 +1,6 @@
 streamlit
-streamlit-autorefresh
 camel-tools
 tweepy
 pandas
 matplotlib
 wheel
-
